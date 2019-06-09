@@ -1,0 +1,17 @@
+{
+  "name": "training-chatbot-webhook",
+  "version": "1.0.0",
+  "description": "Sample Alexa ChatBot Webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "alexa-verifier": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "author": "Niranjan",
+  "license": "ISC"
+}
